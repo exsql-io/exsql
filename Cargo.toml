@@ -1,7 +1,7 @@
 [workspace]
 members = [
     "exsql-core",
-    "exsql-storage", "exsql-straoge",
+    "exsql-storage",
 ]
 
 resolver = "2"
