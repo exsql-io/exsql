@@ -12,13 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Default Rust targets directory.
-/target
-Cargo.lock
-
-# Editors.
-.vscode
-.idea/
-
-# macOS.
-.DS_STORE
+edition = "2021"
+max_width = 100
+reorder_imports = true
+reorder_modules = true
